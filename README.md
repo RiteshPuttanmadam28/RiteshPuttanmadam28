@@ -22,7 +22,3 @@ When I'm not immersed in code, I'm brainstorming new ideas 💡 or exploring the
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
-
-### 📈 GitHub Stats
-
-![Ritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiteshPuttanmadam28&show_icons=true&theme=radical)
