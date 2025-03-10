@@ -1,7 +1,5 @@
 ![Ritesh Banner](./Ritesh-Puttanmadam-Github-ProfileBanner.png)
 
-# Hi, I'm Ritesh Puttanmadam! 👋
-
 I'm a passionate software engineer dedicated to transforming ideas into robust, scalable applications. I love turning coffee into code ☕ and tackling challenges that drive innovation. I have strong technical skills and an academic background in databases and different programming languages such as **Java, Python, C/C++, SQL, HTML, CSS,** and **JavaScript**. This foundation has empowered me to excel in building solutions that are both efficient and impactful.
 
 In my journey, I've embraced frameworks and tools like **React, Node.js, Django,** and various cloud platforms, always striving to stay ahead in the ever-evolving tech landscape. Beyond coding, I contribute to open source projects, share insights on tech trends, and continuously seek opportunities to learn and grow.
