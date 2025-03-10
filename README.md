@@ -1,4 +1,4 @@
-![Welcome Banner](https://via.placeholder.com/1000x250?text=Your+Banner+Here) 
+![Header](./Ritesh-Puttanmadam-Github-ProfileBanner.png)
 
 # Hi, I'm Ritesh Puttanmadam! 👋
 
